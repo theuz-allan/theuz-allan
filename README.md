@@ -129,6 +129,13 @@ Projeto voltado à prática de programação com Python e ao desenvolvimento de 
 - 🎯 Objetivo: praticar lógica de programação e desenvolvimento de aplicações.
 - 💻 [Acessar repositório](https://github.com/theuz-allan/tela-de-login-py)
 
+### 📅 <code>Calculadora em Python...</code>
+
+Uma calculadora desenvolvida em Python que executa operações matemáticas básicas utilizando uma interface simples em texto e lógica de fluxo condicional.
+
+- 🐍 Linguagem: Python.
+- 🎯 Objetivo: Desenvolver uma calculadora em Python via linha de comando capaz de realizar as quatro operações básicas com dois números inseridos pelo usuário
+- 💻 [Acessar repositório](https://github.com/theuz-allan/calcpython.git)
 
 ### 🛒 <code>Loja virtual de achadinhos tecnológicos...</code>
 
