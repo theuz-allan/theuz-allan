@@ -113,6 +113,10 @@
 
 <a href="https://github.com/theuz-allan/tela-de-login-py">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=theuz-allan&repo=tela-de-login-py&theme=tokyonight&hide_border=true" alt="Projeto Tela de Login Python"/>
+</a> 
+
+<a href="https://github.com/theuz-allan/calcpython.git">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theuz-allan&repo=calcpython&theme=tokyonight&hide_border=true" alt="Projeto Calculadora Python"/>
 </a>
 
 <a href="https://github.com/theuz-allan/gt-store-achadinhos">
