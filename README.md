@@ -164,19 +164,19 @@ Projeto de loja virtual de achadinhos tecnológicos, com foco na apresentação 
 
 </div>
 
-### 💻 Desenvolvimento & Programação..
+### 💻 Desenvolvimento & Programação...
 
 -  **Front-End:** aprofundar meus conhecimentos em HTML5, CSS3 e JavaScript.
 -  **Python:** desenvolver aplicações e fortalecer minha lógica de programação.
 -  **UI/UX:** criar interfaces modernas, responsivas, acessíveis e intuitivas.
 
-### 🗄️ Infraestrutura & Dados..
+### 🗄️ Infraestrutura & Dados...
 
 -  **SQL:** aprimorar consultas, modelagem e gerenciamento de bancos de dados.
 -  **Cloud Computing:** expandir meus conhecimentos nos serviços da Amazon Web Services (AWS).
 -  **Git & GitHub:** aperfeiçoar o controle de versão e a colaboração em projetos.
 
-### 🚀 Carreira & Evolução..
+### 🚀 Carreira & Evolução...
 
 -  **Engenharia de Software:** aplicar boas práticas, organização e qualidade no desenvolvimento.
 -  **Portfólio:** construir projetos reais que demonstrem minhas habilidades técnicas.
