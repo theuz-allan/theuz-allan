@@ -1,10 +1,11 @@
+
 # 👋 Oiii! Eu sou Matheus Allan
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1020,50:164eaa,100:06b6d4&height=200&section=header&text=Matheus%20Allan&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Software%20Engineering&descAlignY=55&animation=fadeIn" width="100%" alt="Banner de Matheus Allan"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Dev+Front-End+%F0%9F%92%BB;HTML+%7C+CSS+%7C+JavaScript;Python+%7C+SQL+%7C+Git;Conhecimentos+em+Cloud+AWS+%E2%98%81%EF%B8%8F;Designer+Gr%C3%A1fico+%F0%9F%8E%A8" alt="Apresentação animada das minhas habilidades"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=700&height=55&lines=%3E+Desenvolvedor+Front-End+em+forma%C3%A7%C3%A3o;%3E+HTML5+%7C+CSS3+%7C+JavaScript;%3E+Python+%7C+SQL+%7C+Git+%26+GitHub;%3E+Explorando+Cloud+Computing+%7C+AWS;%3E+Tecnologia+%2B+Criatividade+%3D+Inova%C3%A7%C3%A3o" alt="Apresentação animada das minhas habilidades"/>
 
 <br/>
 
@@ -113,7 +114,7 @@
 
 <a href="https://github.com/theuz-allan/tela-de-login-py">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=theuz-allan&repo=tela-de-login-py&theme=tokyonight&hide_border=true" alt="Projeto Tela de Login Python"/>
-</a> 
+</a>
 
 <a href="https://github.com/theuz-allan/calcpython.git">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=theuz-allan&repo=calcpython&theme=tokyonight&hide_border=true" alt="Projeto Calculadora Python"/>
@@ -138,7 +139,7 @@ Projeto voltado à prática de programação com Python e ao desenvolvimento de 
 Uma calculadora desenvolvida em Python que executa operações matemáticas básicas utilizando uma interface simples em texto e lógica de fluxo condicional.
 
 - 🐍 Linguagem: Python.
-- 🎯 Objetivo: Desenvolver uma calculadora em Python via linha de comando capaz de realizar as quatro operações básicas com dois números inseridos pelo usuário
+- 🎯 Objetivo: Desenvolver uma calculadora em Python via linha de comando capaz de realizar as quatro operações básicas com dois números inseridos pelo usuário.
 - 💻 [Acessar repositório](https://github.com/theuz-allan/calcpython.git)
 
 ### 🛒 <code>Loja virtual de achadinhos tecnológicos...</code>
@@ -146,9 +147,10 @@ Uma calculadora desenvolvida em Python que executa operações matemáticas bás
 Projeto de loja virtual de achadinhos tecnológicos, com foco na apresentação de produtos e na experiência de navegação.
 
 - 🌐 [Acessar a loja online](https://gt-store-achadinhos.lovable.app)
-- 💻 [Ver repositório no GitHub](https://github.com/theuz-allan/gt-store-achadinhos) <br/>
+- 💻 [Ver repositório no GitHub](https://github.com/theuz-allan/gt-store-achadinhos)
 
 ---
+
 ## 🎯 Objetivos profissionais
 
 <div align="center">
@@ -166,27 +168,27 @@ Projeto de loja virtual de achadinhos tecnológicos, com foco na apresentação 
 
 ### 💻 Desenvolvimento & Programação...
 
--  **Front-End:** aprofundar meus conhecimentos em HTML5, CSS3 e JavaScript.
--  **Python:** desenvolver aplicações e fortalecer minha lógica de programação.
--  **UI/UX:** criar interfaces modernas, responsivas, acessíveis e intuitivas.
+- **Front-End:** aprofundar meus conhecimentos em HTML5, CSS3 e JavaScript.
+- **Python:** desenvolver aplicações e fortalecer minha lógica de programação.
+- **UI/UX:** criar interfaces modernas, responsivas, acessíveis e intuitivas.
 
 ### 🗄️ Infraestrutura & Dados...
 
--  **SQL:** aprimorar consultas, modelagem e gerenciamento de bancos de dados.
--  **Cloud Computing:** expandir meus conhecimentos nos serviços da Amazon Web Services (AWS).
--  **Git & GitHub:** aperfeiçoar o controle de versão e a colaboração em projetos.
+- **SQL:** aprimorar consultas, modelagem e gerenciamento de bancos de dados.
+- **Cloud Computing:** expandir meus conhecimentos nos serviços da Amazon Web Services (AWS).
+- **Git & GitHub:** aperfeiçoar o controle de versão e a colaboração em projetos.
 
 ### 🚀 Carreira & Evolução...
 
--  **Engenharia de Software:** aplicar boas práticas, organização e qualidade no desenvolvimento.
--  **Portfólio:** construir projetos reais que demonstrem minhas habilidades técnicas.
--  **Design Gráfico:** integrar criatividade, identidade visual e tecnologia nas minhas aplicações.
+- **Engenharia de Software:** aplicar boas práticas, organização e qualidade no desenvolvimento.
+- **Portfólio:** construir projetos reais que demonstrem minhas habilidades técnicas.
+- **Design Gráfico:** integrar criatividade, identidade visual e tecnologia nas minhas aplicações.
 
 <div align="center">
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-EM%20CONSTANTE%20EVOLU%C3%87%C3%83O-22C55E?style=for-the-badge&logo=rocket&logoColor=white" alt="Em constante evolução"/>
+<img src="https://img.shields.io/badge/%E2%9A%A1-STATUS%3A%20EM%20CONSTANTE%20EVOLU%C3%87%C3%83O-0B1020?style=for-the-badge&labelColor=0B1020&color=164EAA&logo=github&logoColor=38BDF8" alt="Em constante evolução"/>
 
 ### <code>while (aprendendo) { evoluir(); }</code>
 
