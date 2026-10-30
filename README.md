@@ -40,8 +40,6 @@
 
 ---
 
----
-
 ## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
@@ -68,7 +66,7 @@
 
 ### ☁️ Cloud Computing e versionamento
 
-<img alt="Amazon Web Services AWS" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img alt="Amazon Web Services AWS" height="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 &nbsp;&nbsp;
 <img alt="Git" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 &nbsp;&nbsp;
@@ -93,16 +91,16 @@
 <div align="center">
 
 <a href="https://github.com/theuz-allan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theuz-allan&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=theuz-allan&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&rank_icon=github&locale=pt-br&cache_seconds=86400" alt="Estatísticas do GitHub"/>
 </a>
 
 <a href="https://github.com/theuz-allan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theuz-allan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=theuz-allan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br&cache_seconds=86400" alt="Linguagens mais utilizadas"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=theuz-allan&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+<img src="https://streak-stats.demolab.com/?user=theuz-allan&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 
 </div>
 
@@ -113,15 +111,15 @@
 <div align="center">
 
 <a href="https://github.com/theuz-allan/tela-de-login-py">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theuz-allan&repo=tela-de-login-py&theme=tokyonight&hide_border=true" alt="Projeto Tela de Login Python"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=theuz-allan&repo=tela-de-login-py&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Projeto Tela de Login Python"/>
 </a>
 
-<a href="https://github.com/theuz-allan/calcpython.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theuz-allan&repo=calcpython&theme=tokyonight&hide_border=true" alt="Projeto Calculadora Python"/>
+<a href="https://github.com/theuz-allan/calcpython">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=theuz-allan&repo=calcpython&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Projeto Calculadora Python"/>
 </a>
 
 <a href="https://github.com/theuz-allan/gt-store-achadinhos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=theuz-allan&repo=gt-store-achadinhos&theme=tokyonight&hide_border=true" alt="Projeto GT Store Achadinhos"/>
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=theuz-allan&repo=gt-store-achadinhos&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Projeto GT Store Achadinhos"/>
 </a>
 
 </div>
@@ -139,8 +137,8 @@ Projeto voltado à prática de programação com Python e ao desenvolvimento de 
 Uma calculadora desenvolvida em Python que executa operações matemáticas básicas utilizando uma interface simples em texto e lógica de fluxo condicional.
 
 - 🐍 Linguagem: Python.
-- 🎯 Objetivo: Desenvolver uma calculadora em Python via linha de comando capaz de realizar as quatro operações básicas com dois números inseridos pelo usuário.
-- 💻 [Acessar repositório](https://github.com/theuz-allan/calcpython.git)
+- 🎯 Objetivo: desenvolver uma calculadora em Python via linha de comando capaz de realizar as quatro operações básicas com dois números inseridos pelo usuário.
+- 💻 [Acessar repositório](https://github.com/theuz-allan/calcpython)
 
 ### 🛒 <code>Loja virtual de achadinhos tecnológicos...</code>
 
